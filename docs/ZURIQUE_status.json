@@ -1,8 +1,159 @@
 {
   "garagem": "ZURIQUE",
-  "online": 0,
-  "offline": "ERRO",
-  "last_update": "2026-05-06T09:33:01.285536-03:00",
-  "panel_url": "N/A",
-  "tgs_history": []
+  "online": 12,
+  "offline": 1,
+  "last_update": "2026-05-06T10:29:41.720422-03:00",
+  "panel_url": "https://monitoramentov3lan.github.io/zurique/COMUNICAÇÕES_ZURIQUE.html",
+  "tgs_history": [
+    {
+      "data": "05/05/2026",
+      "count": 17,
+      "filename": "TGs_20260505.txt"
+    },
+    {
+      "data": "04/05/2026",
+      "count": 15,
+      "filename": "TGs_20260504.txt"
+    },
+    {
+      "data": "03/05/2026",
+      "count": 7,
+      "filename": "TGs_20260503.txt"
+    },
+    {
+      "data": "02/05/2026",
+      "count": 11,
+      "filename": "TGs_20260502.txt"
+    },
+    {
+      "data": "01/05/2026",
+      "count": 10,
+      "filename": "TGs_20260501.txt"
+    },
+    {
+      "data": "30/04/2026",
+      "count": 17,
+      "filename": "TGs_20260430.txt"
+    },
+    {
+      "data": "29/04/2026",
+      "count": 14,
+      "filename": "TGs_20260429.txt"
+    },
+    {
+      "data": "28/04/2026",
+      "count": 17,
+      "filename": "TGs_20260428.txt"
+    },
+    {
+      "data": "27/04/2026",
+      "count": 15,
+      "filename": "TGs_20260427.txt"
+    },
+    {
+      "data": "26/04/2026",
+      "count": 7,
+      "filename": "TGs_20260426.txt"
+    },
+    {
+      "data": "25/04/2026",
+      "count": 14,
+      "filename": "TGs_20260425.txt"
+    },
+    {
+      "data": "24/04/2026",
+      "count": 18,
+      "filename": "TGs_20260424.txt"
+    },
+    {
+      "data": "23/04/2026",
+      "count": 17,
+      "filename": "TGs_20260423.txt"
+    },
+    {
+      "data": "22/04/2026",
+      "count": 18,
+      "filename": "TGs_20260422.txt"
+    },
+    {
+      "data": "21/04/2026",
+      "count": 7,
+      "filename": "TGs_20260421.txt"
+    },
+    {
+      "data": "20/04/2026",
+      "count": 13,
+      "filename": "TGs_20260420.txt"
+    },
+    {
+      "data": "19/04/2026",
+      "count": 6,
+      "filename": "TGs_20260419.txt"
+    },
+    {
+      "data": "18/04/2026",
+      "count": 16,
+      "filename": "TGs_20260418.txt"
+    },
+    {
+      "data": "17/04/2026",
+      "count": 18,
+      "filename": "TGs_20260417.txt"
+    },
+    {
+      "data": "16/04/2026",
+      "count": 18,
+      "filename": "TGs_20260416.txt"
+    },
+    {
+      "data": "15/04/2026",
+      "count": 17,
+      "filename": "TGs_20260415.txt"
+    },
+    {
+      "data": "14/04/2026",
+      "count": 15,
+      "filename": "TGs_20260414.txt"
+    },
+    {
+      "data": "13/04/2026",
+      "count": 15,
+      "filename": "TGs_20260413.txt"
+    },
+    {
+      "data": "12/04/2026",
+      "count": 7,
+      "filename": "TGs_20260412.txt"
+    },
+    {
+      "data": "11/04/2026",
+      "count": 12,
+      "filename": "TGs_20260411.txt"
+    },
+    {
+      "data": "10/04/2026",
+      "count": 15,
+      "filename": "TGs_20260410.txt"
+    },
+    {
+      "data": "09/04/2026",
+      "count": 17,
+      "filename": "TGs_20260409.txt"
+    },
+    {
+      "data": "08/04/2026",
+      "count": 16,
+      "filename": "TGs_20260408.txt"
+    },
+    {
+      "data": "07/04/2026",
+      "count": 17,
+      "filename": "TGs_20260407.txt"
+    },
+    {
+      "data": "06/04/2026",
+      "count": 18,
+      "filename": "TGs_20260406.txt"
+    }
+  ]
 }
